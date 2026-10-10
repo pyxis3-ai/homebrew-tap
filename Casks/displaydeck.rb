@@ -1,6 +1,6 @@
 cask "displaydeck" do
-  version "2.8.7"
-  sha256 "67a0d58d84512f80dbf956d97de011c2b71e465888f0208dfee5891fcb24e29a"
+  version "2.8.8"
+  sha256 "cf1a9cdf14b37c0c9414c80ed68cce517c16da3f92075eadc084c178f24cbe93"
 
   url "https://github.com/pyxis3-ai/displaydeck/releases/download/v#{version}/DisplayDeck.app.zip"
   name "DisplayDeck"
