@@ -1,6 +1,6 @@
 cask "displaydeck" do
-  version "2.8.12"
-  sha256 "539d7622e791868c162346199e2779092746ce7c68fbd76172fd8a022d6fb1ed"
+  version "2.8.13"
+  sha256 "75555baf4b25b8c22b7a051a5dcb4f76e97553a2641e597ee2fa04f27ac2172a"
 
   url "https://github.com/pyxis3-ai/displaydeck/releases/download/v#{version}/DisplayDeck.app.zip"
   name "DisplayDeck"
@@ -31,4 +31,5 @@ cask "displaydeck" do
     scripting addition into Dock.
   CAV
 end
+
 
